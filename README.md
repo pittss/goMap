@@ -6,6 +6,7 @@ This plugin use javascript google maps api v3.
 ## Sample
 
 HTML
+
 ```html
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>  
@@ -20,6 +21,7 @@ HTML
 ```
 
 javascript 
+
 ```javascript 
 $(function() { 
     $("#map").goMap(); 
