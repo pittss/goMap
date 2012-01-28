@@ -6,7 +6,7 @@ This plugin use javascript google maps api v3.
 ## Sample
 Simple add 
 
-'''html
+```html
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>  
 <script type="text/javascript" src="js/jquery.gomap-1.3.2.min.js"></script> 
@@ -17,13 +17,13 @@ Simple add
     height:400px; 
 } 
 </style> 
-'''
+```
 
-'''javascript 
+```javascript 
 $(function() { 
     $("#map").goMap(); 
 });
-'''
+```
 
 ## Supported Browsers
 
