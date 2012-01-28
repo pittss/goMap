@@ -4,8 +4,8 @@ jQuery $.goMap plugin helps you add google maps to you web site.
 This plugin use javascript google maps api v3.
 
 ## Sample
-Simple add 
 
+HTML
 ```html
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>  
@@ -19,6 +19,7 @@ Simple add
 </style> 
 ```
 
+javascript 
 ```javascript 
 $(function() { 
     $("#map").goMap(); 
