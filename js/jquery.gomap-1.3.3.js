@@ -3,7 +3,7 @@
  *
  * @url		http://www.pittss.lv/jquery/gomap/
  * @author	Jevgenijs Shtrauss <pittss@gmail.com>
- * @version	1.3.2 2011.07.01
+ * @version	1.3.3 2014.10.09
  * This software is released under the MIT License <http://www.opensource.org/licenses/mit-license.php>
  * Modified by Nico Piderman 10/9/14 to include disableDefaultUI option
  **/
